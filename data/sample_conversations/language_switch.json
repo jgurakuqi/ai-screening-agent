@@ -1,0 +1,110 @@
+{
+  "conversation_id": "1e2071fc-3e2f-4a9e-b7cb-750916bc73bc",
+  "status": "qualified",
+  "language": "es",
+  "description": "Language switching: candidate starts in English, switches to Spanish mid-conversation. Demonstrates bilingual detection.",
+  "turns": [
+    {
+      "role": "assistant",
+      "message": "¡Hola! Soy el asistente de selección de Grupo Sazón. Estamos buscando repartidores y me gustaría hacerte unas preguntas rápidas. ¿Cómo te llamas? Nombre y apellidos, por favor.",
+      "stage": "greeting"
+    },
+    {
+      "role": "user",
+      "message": "Hi! My name is Sarah Johnson",
+      "language": "en"
+    },
+    {
+      "role": "assistant",
+      "message": "Nice to meet you, Sarah. Do you have a driver's license?",
+      "stage": "license",
+      "language": "en",
+      "extracted": { "full_name": "Sarah Johnson" }
+    },
+    {
+      "role": "user",
+      "message": "Yes, I have a driver's license",
+      "language": "en"
+    },
+    {
+      "role": "assistant",
+      "message": "Great, thanks! What city do you live in?",
+      "stage": "city",
+      "language": "en",
+      "extracted": { "driver_license": true }
+    },
+    {
+      "role": "user",
+      "message": "I live in Barcelona",
+      "language": "en"
+    },
+    {
+      "role": "assistant",
+      "message": "Barcelona is within our service area! What's your availability? Full-time, part-time, or weekends.",
+      "stage": "availability",
+      "language": "en",
+      "extracted": { "city_zone": "Barcelona" }
+    },
+    {
+      "role": "user",
+      "message": "Quiero trabajar los fines de semana",
+      "language": "es",
+      "note": "Language switch from English to Spanish"
+    },
+    {
+      "role": "assistant",
+      "message": "¡Perfecto, fines de semana anotado! ¿Qué horario prefieres? Mañana, tarde, noche, o flexible.",
+      "stage": "schedule",
+      "language": "es",
+      "extracted": { "availability": "weekends" }
+    },
+    {
+      "role": "user",
+      "message": "Turno de tarde",
+      "language": "es"
+    },
+    {
+      "role": "assistant",
+      "message": "¡Gracias! ¿Cuánta experiencia en reparto tienes?",
+      "stage": "experience_years",
+      "language": "es",
+      "extracted": { "preferred_schedule": "afternoon" }
+    },
+    {
+      "role": "user",
+      "message": "No tengo experiencia previa en reparto",
+      "language": "es"
+    },
+    {
+      "role": "assistant",
+      "message": "¡No te preocupes! ¿Cuándo podrías empezar?",
+      "stage": "start_date",
+      "language": "es",
+      "extracted": { "experience_years": 0 }
+    },
+    {
+      "role": "user",
+      "message": "Puedo empezar de inmediato",
+      "language": "es"
+    },
+    {
+      "role": "assistant",
+      "message": "¡Excelente, Sarah Johnson! Tienes todo lo que necesitamos. Un recruiter de Grupo Sazón se pondrá en contacto contigo en los próximos 2 días hábiles. ¡Estamos encantados de que te hayas postulado!",
+      "stage": "closing",
+      "language": "es"
+    }
+  ],
+  "extracted_data": {
+    "full_name": "Sarah Johnson",
+    "driver_license": true,
+    "city_zone": "Barcelona",
+    "availability": "weekends",
+    "preferred_schedule": "afternoon",
+    "experience_years": 0,
+    "experience_platforms": [],
+    "start_date": "ASAP",
+    "disqualification_reason": null,
+    "sentiment_history": ["positive", "positive", "positive", "positive", "positive", "neutral", "positive"]
+  },
+  "summary": "Sarah Johnson is qualified. She has a driver's license, lives in Barcelona, available weekends with afternoon preference, can start immediately. No prior delivery experience but not disqualified."
+}

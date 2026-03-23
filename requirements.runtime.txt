@@ -1,0 +1,15 @@
+python-dotenv
+openai
+pydantic
+fastapi
+uvicorn
+rapidfuzz
+lingua-language-detector
+dateparser
+apscheduler
+loguru
+sentence-transformers
+numpy
+edge-tts
+faster-whisper
+python-multipart

@@ -1,0 +1,10 @@
+[
+  {"role": "user", "content": "Me llamo Laura Sánchez"},
+  {"role": "user", "content": "Sí"},
+  {"role": "user", "content": "Barcelona"},
+  {"role": "user", "content": "Fines de semana"},
+  {"role": "user", "content": "Flexible"},
+  {"role": "user", "content": "3 años"},
+  {"role": "user", "content": "Glovo y Uber Eats"},
+  {"role": "user", "content": "Lo antes posible"}
+]

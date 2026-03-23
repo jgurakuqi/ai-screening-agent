@@ -1,0 +1,55 @@
+{
+  "conversation_id": "71e645ac-6b97-4776-ab5a-1ed2d588e66e",
+  "status": "disqualified",
+  "language": "es",
+  "description": "Disqualification: candidate lives outside service area (London)",
+  "turns": [
+    {
+      "role": "assistant",
+      "message": "¡Hola! Soy el asistente de selección de Grupo Sazón. Estamos buscando repartidores y me gustaría hacerte unas preguntas rápidas. ¿Cómo te llamas? Nombre y apellidos, por favor.",
+      "stage": "greeting"
+    },
+    {
+      "role": "user",
+      "message": "Buenos días, me llamo Pedro Sánchez Ruiz"
+    },
+    {
+      "role": "assistant",
+      "message": "¡Encantado, Pedro! ¿Tienes carnet de conducir?",
+      "stage": "license",
+      "extracted": { "full_name": "Pedro Sánchez Ruiz" }
+    },
+    {
+      "role": "user",
+      "message": "Sí, tengo carnet"
+    },
+    {
+      "role": "assistant",
+      "message": "¡Perfecto, gracias! ¿En qué ciudad vives?",
+      "stage": "city",
+      "extracted": { "driver_license": true }
+    },
+    {
+      "role": "user",
+      "message": "Vivo en Londres"
+    },
+    {
+      "role": "assistant",
+      "message": "Gracias por tu tiempo, Pedro Sánchez Ruiz. Por ahora solo operamos en ciertas ciudades de España y México, y tu zona no está en nuestra área de servicio actual. Te tendremos en mente si expandimos. ¡Hasta pronto!",
+      "stage": "city"
+    }
+  ],
+  "extracted_data": {
+    "full_name": "Pedro Sánchez Ruiz",
+    "driver_license": true,
+    "city_zone": "Londres",
+    "availability": null,
+    "preferred_schedule": null,
+    "experience_years": null,
+    "experience_platforms": [],
+    "start_date": null,
+    "disqualification_reason": "outside_area",
+    "sentiment_history": ["positive", "positive", "neutral"]
+  },
+  "summary": "Pedro Sánchez Ruiz was screened for a delivery rider role and was disqualified. He confirmed that he has a driver's license, which is a positive qualification signal. However, he lives in London, and the company currently only operates in certain cities in Spain and Mexico. The notable issue is that his location is outside the current service area."
+}

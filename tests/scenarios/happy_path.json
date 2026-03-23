@@ -1,0 +1,10 @@
+[
+  {"role": "user", "content": "Me llamo María García"},
+  {"role": "user", "content": "Sí, tengo carnet de conducir"},
+  {"role": "user", "content": "Vivo en Madrid"},
+  {"role": "user", "content": "Tiempo completo"},
+  {"role": "user", "content": "Por la mañana"},
+  {"role": "user", "content": "Llevo 2 años repartiendo"},
+  {"role": "user", "content": "Glovo"},
+  {"role": "user", "content": "Puedo empezar la semana que viene"}
+]

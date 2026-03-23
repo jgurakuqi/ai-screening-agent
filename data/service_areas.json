@@ -1,0 +1,18 @@
+{
+  "cities": [
+    "Madrid", "Barcelona", "Valencia", "Sevilla", "Málaga",
+    "Bilbao", "Zaragoza", "Alicante", "Murcia", "Palma de Mallorca",
+    "Mexico City", "Guadalajara", "Monterrey", "Puebla", "Cancún",
+    "Mérida", "Querétaro", "León", "Tijuana", "Toluca"
+  ],
+  "synonyms": {
+    "CDMX": "Mexico City",
+    "DF": "Mexico City",
+    "Ciudad de México": "Mexico City",
+    "MTY": "Monterrey",
+    "GDL": "Guadalajara",
+    "BCN": "Barcelona",
+    "Palma": "Palma de Mallorca",
+    "Barna": "Barcelona"
+  }
+}

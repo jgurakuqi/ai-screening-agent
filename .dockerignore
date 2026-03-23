@@ -1,0 +1,13 @@
+*.db
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+venv/
+.git/
+data/.cache/
+data/sample_conversations/
+docs/
+tests/
+frontend/__pycache__/
+README.md

@@ -1,0 +1,386 @@
+[
+  {
+    "id": "pay_01",
+    "category": "compensation",
+    "question_es": "¿Cuánto se paga?",
+    "question_en": "How much does the job pay?",
+    "answer_es": "El salario para repartidores de Grupo Sazón es competitivo dentro del sector de reparto. Los detalles exactos del salario se discutirán con tu recruiter después del proceso de selección.",
+    "answer_en": "The salary for Grupo Sazón delivery drivers is competitive within the delivery industry. Exact salary details will be discussed with your recruiter after the screening process."
+  },
+  {
+    "id": "pay_02",
+    "category": "compensation",
+    "question_es": "¿Cada cuánto pagan?",
+    "question_en": "How often do you get paid?",
+    "answer_es": "Los pagos se realizan de forma quincenal o mensual, dependiendo de la ubicación. Tu recruiter te confirmará la frecuencia exacta.",
+    "answer_en": "Payments are made biweekly or monthly, depending on the location. Your recruiter will confirm the exact frequency."
+  },
+  {
+    "id": "pay_03",
+    "category": "compensation",
+    "question_es": "¿Se reciben propinas?",
+    "question_en": "Do drivers receive tips?",
+    "answer_es": "Sí, los repartidores pueden recibir propinas de los clientes. Las propinas son tuyas al 100%.",
+    "answer_en": "Yes, delivery drivers can receive tips from customers. Tips are 100% yours to keep."
+  },
+  {
+    "id": "pay_04",
+    "category": "compensation",
+    "question_es": "¿Hay bonos o incentivos?",
+    "question_en": "Are there bonuses or incentives?",
+    "answer_es": "Sí, ofrecemos incentivos por rendimiento y bonos durante horas pico. Los detalles específicos se discutirán durante la incorporación.",
+    "answer_en": "Yes, we offer performance incentives and bonuses during peak hours. Specific details will be discussed during onboarding."
+  },
+  {
+    "id": "pay_05",
+    "category": "compensation",
+    "question_es": "¿Se pagan horas extras?",
+    "question_en": "Is overtime paid?",
+    "answer_es": "Sí, las horas extras se compensan de acuerdo con la legislación laboral local. Tu recruiter te dará los detalles según tu país.",
+    "answer_en": "Yes, overtime is compensated in accordance with local labor laws. Your recruiter will provide details based on your country."
+  },
+  {
+    "id": "benefits_01",
+    "category": "benefits",
+    "question_es": "¿Hay seguro médico?",
+    "question_en": "Is health insurance provided?",
+    "answer_es": "Sí, Grupo Sazón ofrece cobertura de salud a sus repartidores. Los detalles del plan varían según el país (España o México) y se explican durante la incorporación.",
+    "answer_en": "Yes, Grupo Sazón provides health coverage for its delivery drivers. Plan details vary by country (Spain or Mexico) and are explained during onboarding."
+  },
+  {
+    "id": "benefits_02",
+    "category": "benefits",
+    "question_es": "¿Hay días de vacaciones?",
+    "question_en": "Are there vacation days?",
+    "answer_es": "Sí, los repartidores tienen derecho a vacaciones pagadas conforme a la legislación laboral de su país. Tu recruiter te dará los detalles.",
+    "answer_en": "Yes, delivery drivers are entitled to paid vacation in accordance with their country's labor laws. Your recruiter will provide the details."
+  },
+  {
+    "id": "benefits_03",
+    "category": "benefits",
+    "question_es": "¿Hay seguro social o cotización?",
+    "question_en": "Is there social security coverage?",
+    "answer_es": "Sí, como empleado de Grupo Sazón estarás dado de alta en la seguridad social según la normativa local de tu país.",
+    "answer_en": "Yes, as a Grupo Sazón employee you will be enrolled in social security according to the local regulations of your country."
+  },
+  {
+    "id": "benefits_04",
+    "category": "benefits",
+    "question_es": "¿Qué pasa si me enfermo?",
+    "question_en": "What happens if I get sick?",
+    "answer_es": "Tienes derecho a días de enfermedad según la legislación laboral de tu país. Grupo Sazón sigue las normativas locales de baja por enfermedad.",
+    "answer_en": "You are entitled to sick days according to your country's labor laws. Grupo Sazón follows local sick leave regulations."
+  },
+  {
+    "id": "vehicle_01",
+    "category": "vehicle",
+    "question_es": "¿Necesito tener mi propio vehículo?",
+    "question_en": "Do I need to have my own vehicle?",
+    "answer_es": "Sí, los repartidores deben tener su propio vehículo (coche o moto). Esto es necesario para realizar las entregas.",
+    "answer_en": "Yes, delivery drivers must have their own vehicle (car or motorcycle). This is required to make deliveries."
+  },
+  {
+    "id": "vehicle_02",
+    "category": "vehicle",
+    "question_es": "¿Se reembolsa el combustible?",
+    "question_en": "Is fuel reimbursed?",
+    "answer_es": "Grupo Sazón ofrece una compensación por gastos de combustible. Los detalles exactos se discutirán con tu recruiter.",
+    "answer_en": "Grupo Sazón offers fuel expense compensation. Exact details will be discussed with your recruiter."
+  },
+  {
+    "id": "vehicle_03",
+    "category": "vehicle",
+    "question_es": "¿Puedo usar una bicicleta para repartir?",
+    "question_en": "Can I use a bicycle for deliveries?",
+    "answer_es": "Para este puesto se requiere un vehículo motorizado (coche o moto) con carnet de conducir válido. No se admiten bicicletas.",
+    "answer_en": "This position requires a motorized vehicle (car or motorcycle) with a valid driver's license. Bicycles are not accepted."
+  },
+  {
+    "id": "vehicle_04",
+    "category": "vehicle",
+    "question_es": "¿Necesito un teléfono móvil?",
+    "question_en": "Do I need a smartphone?",
+    "answer_es": "Sí, necesitas un smartphone con datos móviles para usar la aplicación de reparto y recibir pedidos.",
+    "answer_en": "Yes, you need a smartphone with mobile data to use the delivery app and receive orders."
+  },
+  {
+    "id": "vehicle_05",
+    "category": "vehicle",
+    "question_es": "¿Me dan uniforme o bolsa de reparto?",
+    "question_en": "Do you provide a uniform or delivery bag?",
+    "answer_es": "Sí, Grupo Sazón proporciona la bolsa de reparto y elementos de identificación (camiseta o chaleco) sin costo para ti.",
+    "answer_en": "Yes, Grupo Sazón provides the delivery bag and identification items (t-shirt or vest) at no cost to you."
+  },
+  {
+    "id": "vehicle_06",
+    "category": "vehicle",
+    "question_es": "¿Qué tipo de carnet de conducir necesito?",
+    "question_en": "What type of driver's license do I need?",
+    "answer_es": "Necesitas un carnet de conducir válido para el tipo de vehículo que usarás (coche o moto). En España, carnet B para coche o A/A2 para moto. En México, licencia vigente tipo A o B.",
+    "answer_en": "You need a valid driver's license for the type of vehicle you'll use (car or motorcycle). In Spain, B license for car or A/A2 for motorcycle. In Mexico, a valid type A or B license."
+  },
+  {
+    "id": "schedule_01",
+    "category": "schedule",
+    "question_es": "¿Cuántas horas son los turnos?",
+    "question_en": "How long are the shifts?",
+    "answer_es": "Los turnos son generalmente de 4 a 8 horas, dependiendo de tu disponibilidad y el tipo de contrato (jornada completa o parcial).",
+    "answer_en": "Shifts are generally 4 to 8 hours, depending on your availability and contract type (full-time or part-time)."
+  },
+  {
+    "id": "schedule_02",
+    "category": "schedule",
+    "question_es": "¿Hay un mínimo de horas por semana?",
+    "question_en": "Is there a minimum number of hours per week?",
+    "answer_es": "Sí, hay un mínimo de horas semanales que depende de tu tipo de contrato. Los detalles se discutirán con tu recruiter.",
+    "answer_en": "Yes, there is a minimum weekly hours requirement depending on your contract type. Details will be discussed with your recruiter."
+  },
+  {
+    "id": "schedule_03",
+    "category": "schedule",
+    "question_es": "¿Puedo elegir mis horarios?",
+    "question_en": "Can I choose my own schedule?",
+    "answer_es": "Ofrecemos flexibilidad horaria. Puedes indicar tu preferencia (mañana, tarde, noche) y disponibilidad. Los horarios finales se asignan según la demanda y tu preferencia.",
+    "answer_en": "We offer schedule flexibility. You can indicate your preference (morning, afternoon, evening) and availability. Final schedules are assigned based on demand and your preference."
+  },
+  {
+    "id": "schedule_04",
+    "category": "schedule",
+    "question_es": "¿Se trabaja los fines de semana?",
+    "question_en": "Do I have to work weekends?",
+    "answer_es": "Hay opciones de disponibilidad que incluyen fines de semana. Puedes indicar si prefieres jornada completa, parcial o solo fines de semana durante esta selección.",
+    "answer_en": "There are availability options that include weekends. You can indicate if you prefer full-time, part-time, or weekends-only during this screening."
+  },
+  {
+    "id": "schedule_05",
+    "category": "schedule",
+    "question_es": "¿Cuáles son las horas pico?",
+    "question_en": "What are peak hours?",
+    "answer_es": "Las horas pico suelen ser a la hora de comer (12:00-15:00) y cena (19:00-22:00). Durante estos períodos hay más pedidos y posibles incentivos adicionales.",
+    "answer_en": "Peak hours are typically during lunch (12:00-15:00) and dinner (19:00-22:00). During these periods there are more orders and potential additional incentives."
+  },
+  {
+    "id": "training_01",
+    "category": "training",
+    "question_es": "¿Hay formación o capacitación?",
+    "question_en": "Is there training provided?",
+    "answer_es": "Sí, Grupo Sazón ofrece una capacitación inicial que cubre el uso de la app, protocolos de entrega, seguridad vial y atención al cliente.",
+    "answer_en": "Yes, Grupo Sazón provides initial training covering app usage, delivery protocols, road safety, and customer service."
+  },
+  {
+    "id": "training_02",
+    "category": "training",
+    "question_es": "¿La capacitación es pagada?",
+    "question_en": "Is training paid?",
+    "answer_es": "Sí, la capacitación inicial es pagada. Recibirás compensación por el tiempo de formación.",
+    "answer_en": "Yes, initial training is paid. You will be compensated for training time."
+  },
+  {
+    "id": "training_03",
+    "category": "training",
+    "question_es": "¿Cuánto dura la capacitación?",
+    "question_en": "How long is the training?",
+    "answer_es": "La capacitación inicial dura entre 1 y 3 días, dependiendo de la ubicación y tu experiencia previa en reparto.",
+    "answer_en": "Initial training lasts 1 to 3 days, depending on the location and your previous delivery experience."
+  },
+  {
+    "id": "training_04",
+    "category": "training",
+    "question_es": "¿Cuándo puedo empezar después de ser aceptado?",
+    "question_en": "How soon can I start after being accepted?",
+    "answer_es": "Generalmente puedes comenzar dentro de 1-2 semanas después de completar la documentación y la capacitación inicial.",
+    "answer_en": "Generally you can start within 1-2 weeks after completing documentation and initial training."
+  },
+  {
+    "id": "job_01",
+    "category": "job_details",
+    "question_es": "¿Cuántas entregas se hacen por turno?",
+    "question_en": "How many deliveries per shift?",
+    "answer_es": "El número de entregas varía según la zona y la demanda, pero en promedio un repartidor realiza entre 8 y 15 entregas por turno de 8 horas.",
+    "answer_en": "The number of deliveries varies by zone and demand, but on average a driver makes 8 to 15 deliveries per 8-hour shift."
+  },
+  {
+    "id": "job_02",
+    "category": "job_details",
+    "question_es": "¿En qué zona haría las entregas?",
+    "question_en": "What area would I deliver in?",
+    "answer_es": "Las zonas de entrega se asignan según tu ciudad. Intentamos asignarte una zona cercana a tu domicilio para minimizar el tiempo de desplazamiento.",
+    "answer_en": "Delivery zones are assigned based on your city. We try to assign you a zone close to your home to minimize commute time."
+  },
+  {
+    "id": "job_03",
+    "category": "job_details",
+    "question_es": "¿Solo entrego comida de Grupo Sazón?",
+    "question_en": "Do I only deliver Grupo Sazón food?",
+    "answer_es": "Sí, como repartidor de Grupo Sazón, entregas exclusivamente pedidos de nuestros restaurantes asociados dentro de la cadena.",
+    "answer_en": "Yes, as a Grupo Sazón delivery driver, you exclusively deliver orders from our associated restaurants within the chain."
+  },
+  {
+    "id": "job_04",
+    "category": "job_details",
+    "question_es": "¿Cómo se asignan los pedidos?",
+    "question_en": "How are orders assigned?",
+    "answer_es": "Los pedidos se asignan automáticamente a través de la app según tu ubicación y disponibilidad. Recibirás una notificación para cada pedido.",
+    "answer_en": "Orders are automatically assigned through the app based on your location and availability. You'll receive a notification for each order."
+  },
+  {
+    "id": "job_05",
+    "category": "job_details",
+    "question_es": "¿Tengo que interactuar con los clientes?",
+    "question_en": "Do I have to interact with customers?",
+    "answer_es": "Sí, interactúas brevemente con los clientes al momento de la entrega. Se espera un trato amable y profesional.",
+    "answer_en": "Yes, you briefly interact with customers at the point of delivery. Friendly and professional treatment is expected."
+  },
+  {
+    "id": "requirements_01",
+    "category": "requirements",
+    "question_es": "¿Cuál es la edad mínima?",
+    "question_en": "What is the minimum age?",
+    "answer_es": "Debes tener al menos 18 años para ser repartidor de Grupo Sazón.",
+    "answer_en": "You must be at least 18 years old to be a Grupo Sazón delivery driver."
+  },
+  {
+    "id": "requirements_02",
+    "category": "requirements",
+    "question_es": "¿Necesito permiso de trabajo?",
+    "question_en": "Do I need a work permit?",
+    "answer_es": "Sí, necesitas autorización legal para trabajar en el país donde aplicas (España o México). Se verificará durante el proceso de incorporación.",
+    "answer_en": "Yes, you need legal authorization to work in the country where you're applying (Spain or Mexico). This will be verified during onboarding."
+  },
+  {
+    "id": "requirements_03",
+    "category": "requirements",
+    "question_es": "¿Hay verificación de antecedentes?",
+    "question_en": "Is there a background check?",
+    "answer_es": "Sí, se realiza una verificación de antecedentes básica como parte del proceso de contratación. Esto es estándar para todos los candidatos.",
+    "answer_en": "Yes, a basic background check is conducted as part of the hiring process. This is standard for all candidates."
+  },
+  {
+    "id": "requirements_04",
+    "category": "requirements",
+    "question_es": "¿Necesito seguro de vehículo?",
+    "question_en": "Do I need vehicle insurance?",
+    "answer_es": "Sí, tu vehículo debe tener un seguro vigente. Los requisitos específicos de cobertura se discutirán durante la incorporación.",
+    "answer_en": "Yes, your vehicle must have current insurance. Specific coverage requirements will be discussed during onboarding."
+  },
+  {
+    "id": "requirements_05",
+    "category": "requirements",
+    "question_es": "¿Necesito experiencia previa en reparto?",
+    "question_en": "Do I need previous delivery experience?",
+    "answer_es": "No, no se requiere experiencia previa. Proporcionamos capacitación completa. Sin embargo, la experiencia previa es valorada positivamente.",
+    "answer_en": "No, previous experience is not required. We provide full training. However, prior experience is valued positively."
+  },
+  {
+    "id": "company_01",
+    "category": "company",
+    "question_es": "¿Qué es Grupo Sazón?",
+    "question_en": "What is Grupo Sazón?",
+    "answer_es": "Grupo Sazón es una cadena de restaurantes con presencia en España y México. Nos especializamos en comida de calidad con servicio de entrega a domicilio en las principales ciudades de ambos países.",
+    "answer_en": "Grupo Sazón is a restaurant chain with presence in Spain and Mexico. We specialize in quality food with home delivery service in major cities across both countries."
+  },
+  {
+    "id": "company_02",
+    "category": "company",
+    "question_es": "¿En qué ciudades opera Grupo Sazón?",
+    "question_en": "What cities does Grupo Sazón operate in?",
+    "answer_es": "Operamos en ciudades principales de España (Madrid, Barcelona, Valencia, Sevilla, Málaga, Bilbao, Zaragoza, Alicante, Murcia, Palma de Mallorca) y México (CDMX, Guadalajara, Monterrey, Puebla, Cancún, Mérida, Querétaro, León, Tijuana, Toluca).",
+    "answer_en": "We operate in major cities in Spain (Madrid, Barcelona, Valencia, Sevilla, Málaga, Bilbao, Zaragoza, Alicante, Murcia, Palma de Mallorca) and Mexico (Mexico City, Guadalajara, Monterrey, Puebla, Cancún, Mérida, Querétaro, León, Tijuana, Toluca)."
+  },
+  {
+    "id": "company_03",
+    "category": "company",
+    "question_es": "¿Grupo Sazón está creciendo?",
+    "question_en": "Is Grupo Sazón growing?",
+    "answer_es": "Sí, Grupo Sazón está en expansión activa. Estamos abriendo nuevas ubicaciones y ampliando nuestras zonas de reparto constantemente.",
+    "answer_en": "Yes, Grupo Sazón is actively expanding. We are opening new locations and expanding our delivery zones constantly."
+  },
+  {
+    "id": "process_01",
+    "category": "application_process",
+    "question_es": "¿Qué pasa después de esta selección?",
+    "question_en": "What happens after this screening?",
+    "answer_es": "Si cumples con los requisitos, un recruiter de Grupo Sazón te contactará dentro de 2 días hábiles para discutir los siguientes pasos, incluyendo documentación y capacitación.",
+    "answer_en": "If you meet the requirements, a Grupo Sazón recruiter will contact you within 2 business days to discuss next steps, including documentation and training."
+  },
+  {
+    "id": "process_02",
+    "category": "application_process",
+    "question_es": "¿Hay una entrevista?",
+    "question_en": "Is there an interview?",
+    "answer_es": "Esta selección automatizada es el primer paso. Dependiendo del resultado, puede haber una breve llamada con un recruiter antes de la contratación.",
+    "answer_en": "This automated screening is the first step. Depending on the result, there may be a brief call with a recruiter before hiring."
+  },
+  {
+    "id": "process_03",
+    "category": "application_process",
+    "question_es": "¿Cuánto tarda el proceso de contratación?",
+    "question_en": "How long does the hiring process take?",
+    "answer_es": "El proceso completo suele tomar entre 1 y 2 semanas desde esta selección hasta el inicio de la capacitación.",
+    "answer_en": "The full process typically takes 1 to 2 weeks from this screening to the start of training."
+  },
+  {
+    "id": "process_04",
+    "category": "application_process",
+    "question_es": "¿Quién me contactará?",
+    "question_en": "Who will contact me?",
+    "answer_es": "Un recruiter del equipo de Grupo Sazón te contactará por teléfono o correo electrónico con los detalles del resultado y los siguientes pasos.",
+    "answer_en": "A recruiter from the Grupo Sazón team will contact you by phone or email with the result details and next steps."
+  },
+  {
+    "id": "policies_01",
+    "category": "policies",
+    "question_es": "¿Qué pasa si mi vehículo se avería?",
+    "question_en": "What if my vehicle breaks down?",
+    "answer_es": "Si tu vehículo se avería durante un turno, debes reportarlo a través de la app inmediatamente. Se reasignarán tus pedidos pendientes y no serás penalizado.",
+    "answer_en": "If your vehicle breaks down during a shift, you must report it through the app immediately. Your pending orders will be reassigned and you will not be penalized."
+  },
+  {
+    "id": "policies_02",
+    "category": "policies",
+    "question_es": "¿Qué pasa si tengo un accidente?",
+    "question_en": "What happens if I have an accident?",
+    "answer_es": "En caso de accidente, tu seguridad es la prioridad. Reporta el incidente a través de la app y contacta a emergencias si es necesario. Grupo Sazón tiene protocolos de apoyo para estas situaciones.",
+    "answer_en": "In case of an accident, your safety is the priority. Report the incident through the app and contact emergency services if needed. Grupo Sazón has support protocols for these situations."
+  },
+  {
+    "id": "policies_03",
+    "category": "policies",
+    "question_es": "¿Puedo cancelar un pedido?",
+    "question_en": "Can I cancel an order?",
+    "answer_es": "Puedes cancelar un pedido en circunstancias excepcionales a través de la app. Las cancelaciones frecuentes sin justificación pueden afectar tu calificación.",
+    "answer_en": "You can cancel an order in exceptional circumstances through the app. Frequent cancellations without justification may affect your rating."
+  },
+  {
+    "id": "policies_04",
+    "category": "policies",
+    "question_es": "¿Se usa una app para trabajar?",
+    "question_en": "Is there an app for work?",
+    "answer_es": "Sí, usarás la app de Grupo Sazón para recibir pedidos, navegar a los destinos, confirmar entregas y registrar tu disponibilidad.",
+    "answer_en": "Yes, you'll use the Grupo Sazón app to receive orders, navigate to destinations, confirm deliveries, and log your availability."
+  },
+  {
+    "id": "contract_01",
+    "category": "compensation",
+    "question_es": "¿Es trabajo por contrato o independiente?",
+    "question_en": "Is this contract work or freelance?",
+    "answer_es": "Los repartidores de Grupo Sazón son contratados como empleados con contrato laboral, no como autónomos. Esto incluye las protecciones laborales correspondientes.",
+    "answer_en": "Grupo Sazón delivery drivers are hired as employees with a labor contract, not as freelancers. This includes corresponding labor protections."
+  },
+  {
+    "id": "contract_02",
+    "category": "compensation",
+    "question_es": "¿Hay período de prueba?",
+    "question_en": "Is there a probation period?",
+    "answer_es": "Sí, hay un período de prueba según la legislación laboral de tu país. Durante este período, recibes las mismas condiciones salariales y beneficios.",
+    "answer_en": "Yes, there is a probation period according to your country's labor laws. During this period, you receive the same salary conditions and benefits."
+  },
+  {
+    "id": "safety_01",
+    "category": "policies",
+    "question_es": "¿Qué medidas de seguridad hay para los repartidores?",
+    "question_en": "What safety measures are there for drivers?",
+    "answer_es": "Grupo Sazón ofrece capacitación en seguridad vial, seguimiento en tiempo real durante los turnos, y protocolos de emergencia a través de la app.",
+    "answer_en": "Grupo Sazón provides road safety training, real-time tracking during shifts, and emergency protocols through the app."
+  }
+]

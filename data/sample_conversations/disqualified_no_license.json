@@ -1,0 +1,45 @@
+{
+  "conversation_id": "1a133a8a-c6ba-4bd2-b057-50af4a1e492a",
+  "status": "disqualified",
+  "language": "es",
+  "description": "Early disqualification: candidate does not have a driver's license",
+  "turns": [
+    {
+      "role": "assistant",
+      "message": "¡Hola! Soy el asistente de selección de Grupo Sazón. Estamos buscando repartidores y me gustaría hacerte unas preguntas rápidas. ¿Cómo te llamas? Nombre y apellidos, por favor.",
+      "stage": "greeting"
+    },
+    {
+      "role": "user",
+      "message": "Hola, soy Ana Martínez"
+    },
+    {
+      "role": "assistant",
+      "message": "¡Encantado, Ana! ¿Tienes carnet de conducir?",
+      "stage": "license",
+      "extracted": { "full_name": "Ana Martínez" }
+    },
+    {
+      "role": "user",
+      "message": "No, no tengo carnet de conducir"
+    },
+    {
+      "role": "assistant",
+      "message": "Gracias por tu interés en Grupo Sazón, Ana Martínez. Desafortunadamente, el carnet de conducir es un requisito imprescindible para este puesto. Te animamos a que te pongas en contacto con nosotros cuando lo tengas. ¡Mucha suerte!",
+      "stage": "license"
+    }
+  ],
+  "extracted_data": {
+    "full_name": "Ana Martínez",
+    "driver_license": false,
+    "city_zone": null,
+    "availability": null,
+    "preferred_schedule": null,
+    "experience_years": null,
+    "experience_platforms": [],
+    "start_date": null,
+    "disqualification_reason": "no_license",
+    "sentiment_history": ["positive", "neutral"]
+  },
+  "summary": "Ana Martínez was screened for a delivery rider role at Grupo Sazón. She was disqualified because she does not have a driver's license, which was stated as an essential requirement for the position. No other qualification signals were provided in the conversation."
+}
