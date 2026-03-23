@@ -6,7 +6,7 @@
   "turns": [
     {
       "role": "assistant",
-      "message": "¡Hola! Soy el asistente de selección de Grupo Sazón. Estamos buscando repartidores y me gustaría hacerte unas preguntas rápidas. ¿Cómo te llamas? Nombre y apellidos, por favor.",
+      "message": "¡Hola! Soy el asistente de selección de FreshRoute. Estamos buscando repartidores y me gustaría hacerte unas preguntas rápidas. ¿Cómo te llamas? Nombre y apellidos, por favor.",
       "stage": "greeting"
     },
     {
@@ -89,7 +89,7 @@
     },
     {
       "role": "assistant",
-      "message": "¡Excelente, Sarah Johnson! Tienes todo lo que necesitamos. Un recruiter de Grupo Sazón se pondrá en contacto contigo en los próximos 2 días hábiles. ¡Estamos encantados de que te hayas postulado!",
+      "message": "¡Excelente, Sarah Johnson! Tienes todo lo que necesitamos. Un recruiter de FreshRoute se pondrá en contacto contigo en los próximos 2 días hábiles. ¡Estamos encantados de que te hayas postulado!",
       "stage": "closing",
       "language": "es"
     }

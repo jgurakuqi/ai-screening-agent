@@ -4,8 +4,8 @@
     "category": "compensation",
     "question_es": "¿Cuánto se paga?",
     "question_en": "How much does the job pay?",
-    "answer_es": "El salario para repartidores de Grupo Sazón es competitivo dentro del sector de reparto. Los detalles exactos del salario se discutirán con tu recruiter después del proceso de selección.",
-    "answer_en": "The salary for Grupo Sazón delivery drivers is competitive within the delivery industry. Exact salary details will be discussed with your recruiter after the screening process."
+    "answer_es": "El salario para repartidores de FreshRoute es competitivo dentro del sector de reparto. Los detalles exactos del salario se discutirán con tu recruiter después del proceso de selección.",
+    "answer_en": "The salary for FreshRoute delivery drivers is competitive within the delivery industry. Exact salary details will be discussed with your recruiter after the screening process."
   },
   {
     "id": "pay_02",
@@ -44,8 +44,8 @@
     "category": "benefits",
     "question_es": "¿Hay seguro médico?",
     "question_en": "Is health insurance provided?",
-    "answer_es": "Sí, Grupo Sazón ofrece cobertura de salud a sus repartidores. Los detalles del plan varían según el país (España o México) y se explican durante la incorporación.",
-    "answer_en": "Yes, Grupo Sazón provides health coverage for its delivery drivers. Plan details vary by country (Spain or Mexico) and are explained during onboarding."
+    "answer_es": "Sí, FreshRoute ofrece cobertura de salud a sus repartidores. Los detalles del plan varían según el país (España o México) y se explican durante la incorporación.",
+    "answer_en": "Yes, FreshRoute provides health coverage for its delivery drivers. Plan details vary by country (Spain or Mexico) and are explained during onboarding."
   },
   {
     "id": "benefits_02",
@@ -60,16 +60,16 @@
     "category": "benefits",
     "question_es": "¿Hay seguro social o cotización?",
     "question_en": "Is there social security coverage?",
-    "answer_es": "Sí, como empleado de Grupo Sazón estarás dado de alta en la seguridad social según la normativa local de tu país.",
-    "answer_en": "Yes, as a Grupo Sazón employee you will be enrolled in social security according to the local regulations of your country."
+    "answer_es": "Sí, como empleado de FreshRoute estarás dado de alta en la seguridad social según la normativa local de tu país.",
+    "answer_en": "Yes, as a FreshRoute employee you will be enrolled in social security according to the local regulations of your country."
   },
   {
     "id": "benefits_04",
     "category": "benefits",
     "question_es": "¿Qué pasa si me enfermo?",
     "question_en": "What happens if I get sick?",
-    "answer_es": "Tienes derecho a días de enfermedad según la legislación laboral de tu país. Grupo Sazón sigue las normativas locales de baja por enfermedad.",
-    "answer_en": "You are entitled to sick days according to your country's labor laws. Grupo Sazón follows local sick leave regulations."
+    "answer_es": "Tienes derecho a días de enfermedad según la legislación laboral de tu país. FreshRoute sigue las normativas locales de baja por enfermedad.",
+    "answer_en": "You are entitled to sick days according to your country's labor laws. FreshRoute follows local sick leave regulations."
   },
   {
     "id": "vehicle_01",
@@ -84,8 +84,8 @@
     "category": "vehicle",
     "question_es": "¿Se reembolsa el combustible?",
     "question_en": "Is fuel reimbursed?",
-    "answer_es": "Grupo Sazón ofrece una compensación por gastos de combustible. Los detalles exactos se discutirán con tu recruiter.",
-    "answer_en": "Grupo Sazón offers fuel expense compensation. Exact details will be discussed with your recruiter."
+    "answer_es": "FreshRoute ofrece una compensación por gastos de combustible. Los detalles exactos se discutirán con tu recruiter.",
+    "answer_en": "FreshRoute offers fuel expense compensation. Exact details will be discussed with your recruiter."
   },
   {
     "id": "vehicle_03",
@@ -108,8 +108,8 @@
     "category": "vehicle",
     "question_es": "¿Me dan uniforme o bolsa de reparto?",
     "question_en": "Do you provide a uniform or delivery bag?",
-    "answer_es": "Sí, Grupo Sazón proporciona la bolsa de reparto y elementos de identificación (camiseta o chaleco) sin costo para ti.",
-    "answer_en": "Yes, Grupo Sazón provides the delivery bag and identification items (t-shirt or vest) at no cost to you."
+    "answer_es": "Sí, FreshRoute proporciona la bolsa de reparto y elementos de identificación (camiseta o chaleco) sin costo para ti.",
+    "answer_en": "Yes, FreshRoute provides the delivery bag and identification items (t-shirt or vest) at no cost to you."
   },
   {
     "id": "vehicle_06",
@@ -164,8 +164,8 @@
     "category": "training",
     "question_es": "¿Hay formación o capacitación?",
     "question_en": "Is there training provided?",
-    "answer_es": "Sí, Grupo Sazón ofrece una capacitación inicial que cubre el uso de la app, protocolos de entrega, seguridad vial y atención al cliente.",
-    "answer_en": "Yes, Grupo Sazón provides initial training covering app usage, delivery protocols, road safety, and customer service."
+    "answer_es": "Sí, FreshRoute ofrece una capacitación inicial que cubre el uso de la app, protocolos de entrega, seguridad vial y atención al cliente.",
+    "answer_en": "Yes, FreshRoute provides initial training covering app usage, delivery protocols, road safety, and customer service."
   },
   {
     "id": "training_02",
@@ -210,10 +210,10 @@
   {
     "id": "job_03",
     "category": "job_details",
-    "question_es": "¿Solo entrego comida de Grupo Sazón?",
-    "question_en": "Do I only deliver Grupo Sazón food?",
-    "answer_es": "Sí, como repartidor de Grupo Sazón, entregas exclusivamente pedidos de nuestros restaurantes asociados dentro de la cadena.",
-    "answer_en": "Yes, as a Grupo Sazón delivery driver, you exclusively deliver orders from our associated restaurants within the chain."
+    "question_es": "¿Solo entrego comida de FreshRoute?",
+    "question_en": "Do I only deliver FreshRoute food?",
+    "answer_es": "Sí, como repartidor de FreshRoute, entregas exclusivamente pedidos de nuestros restaurantes asociados dentro de la cadena.",
+    "answer_en": "Yes, as a FreshRoute delivery driver, you exclusively deliver orders from our associated restaurants within the chain."
   },
   {
     "id": "job_04",
@@ -236,8 +236,8 @@
     "category": "requirements",
     "question_es": "¿Cuál es la edad mínima?",
     "question_en": "What is the minimum age?",
-    "answer_es": "Debes tener al menos 18 años para ser repartidor de Grupo Sazón.",
-    "answer_en": "You must be at least 18 years old to be a Grupo Sazón delivery driver."
+    "answer_es": "Debes tener al menos 18 años para ser repartidor de FreshRoute.",
+    "answer_en": "You must be at least 18 years old to be a FreshRoute delivery driver."
   },
   {
     "id": "requirements_02",
@@ -274,34 +274,34 @@
   {
     "id": "company_01",
     "category": "company",
-    "question_es": "¿Qué es Grupo Sazón?",
-    "question_en": "What is Grupo Sazón?",
-    "answer_es": "Grupo Sazón es una cadena de restaurantes con presencia en España y México. Nos especializamos en comida de calidad con servicio de entrega a domicilio en las principales ciudades de ambos países.",
-    "answer_en": "Grupo Sazón is a restaurant chain with presence in Spain and Mexico. We specialize in quality food with home delivery service in major cities across both countries."
+    "question_es": "¿Qué es FreshRoute?",
+    "question_en": "What is FreshRoute?",
+    "answer_es": "FreshRoute es una cadena de restaurantes con presencia en España y México. Nos especializamos en comida de calidad con servicio de entrega a domicilio en las principales ciudades de ambos países.",
+    "answer_en": "FreshRoute is a restaurant chain with presence in Spain and Mexico. We specialize in quality food with home delivery service in major cities across both countries."
   },
   {
     "id": "company_02",
     "category": "company",
-    "question_es": "¿En qué ciudades opera Grupo Sazón?",
-    "question_en": "What cities does Grupo Sazón operate in?",
+    "question_es": "¿En qué ciudades opera FreshRoute?",
+    "question_en": "What cities does FreshRoute operate in?",
     "answer_es": "Operamos en ciudades principales de España (Madrid, Barcelona, Valencia, Sevilla, Málaga, Bilbao, Zaragoza, Alicante, Murcia, Palma de Mallorca) y México (CDMX, Guadalajara, Monterrey, Puebla, Cancún, Mérida, Querétaro, León, Tijuana, Toluca).",
     "answer_en": "We operate in major cities in Spain (Madrid, Barcelona, Valencia, Sevilla, Málaga, Bilbao, Zaragoza, Alicante, Murcia, Palma de Mallorca) and Mexico (Mexico City, Guadalajara, Monterrey, Puebla, Cancún, Mérida, Querétaro, León, Tijuana, Toluca)."
   },
   {
     "id": "company_03",
     "category": "company",
-    "question_es": "¿Grupo Sazón está creciendo?",
-    "question_en": "Is Grupo Sazón growing?",
-    "answer_es": "Sí, Grupo Sazón está en expansión activa. Estamos abriendo nuevas ubicaciones y ampliando nuestras zonas de reparto constantemente.",
-    "answer_en": "Yes, Grupo Sazón is actively expanding. We are opening new locations and expanding our delivery zones constantly."
+    "question_es": "¿FreshRoute está creciendo?",
+    "question_en": "Is FreshRoute growing?",
+    "answer_es": "Sí, FreshRoute está en expansión activa. Estamos abriendo nuevas ubicaciones y ampliando nuestras zonas de reparto constantemente.",
+    "answer_en": "Yes, FreshRoute is actively expanding. We are opening new locations and expanding our delivery zones constantly."
   },
   {
     "id": "process_01",
     "category": "application_process",
     "question_es": "¿Qué pasa después de esta selección?",
     "question_en": "What happens after this screening?",
-    "answer_es": "Si cumples con los requisitos, un recruiter de Grupo Sazón te contactará dentro de 2 días hábiles para discutir los siguientes pasos, incluyendo documentación y capacitación.",
-    "answer_en": "If you meet the requirements, a Grupo Sazón recruiter will contact you within 2 business days to discuss next steps, including documentation and training."
+    "answer_es": "Si cumples con los requisitos, un recruiter de FreshRoute te contactará dentro de 2 días hábiles para discutir los siguientes pasos, incluyendo documentación y capacitación.",
+    "answer_en": "If you meet the requirements, a FreshRoute recruiter will contact you within 2 business days to discuss next steps, including documentation and training."
   },
   {
     "id": "process_02",
@@ -324,8 +324,8 @@
     "category": "application_process",
     "question_es": "¿Quién me contactará?",
     "question_en": "Who will contact me?",
-    "answer_es": "Un recruiter del equipo de Grupo Sazón te contactará por teléfono o correo electrónico con los detalles del resultado y los siguientes pasos.",
-    "answer_en": "A recruiter from the Grupo Sazón team will contact you by phone or email with the result details and next steps."
+    "answer_es": "Un recruiter del equipo de FreshRoute te contactará por teléfono o correo electrónico con los detalles del resultado y los siguientes pasos.",
+    "answer_en": "A recruiter from the FreshRoute team will contact you by phone or email with the result details and next steps."
   },
   {
     "id": "policies_01",
@@ -340,8 +340,8 @@
     "category": "policies",
     "question_es": "¿Qué pasa si tengo un accidente?",
     "question_en": "What happens if I have an accident?",
-    "answer_es": "En caso de accidente, tu seguridad es la prioridad. Reporta el incidente a través de la app y contacta a emergencias si es necesario. Grupo Sazón tiene protocolos de apoyo para estas situaciones.",
-    "answer_en": "In case of an accident, your safety is the priority. Report the incident through the app and contact emergency services if needed. Grupo Sazón has support protocols for these situations."
+    "answer_es": "En caso de accidente, tu seguridad es la prioridad. Reporta el incidente a través de la app y contacta a emergencias si es necesario. FreshRoute tiene protocolos de apoyo para estas situaciones.",
+    "answer_en": "In case of an accident, your safety is the priority. Report the incident through the app and contact emergency services if needed. FreshRoute has support protocols for these situations."
   },
   {
     "id": "policies_03",
@@ -356,16 +356,16 @@
     "category": "policies",
     "question_es": "¿Se usa una app para trabajar?",
     "question_en": "Is there an app for work?",
-    "answer_es": "Sí, usarás la app de Grupo Sazón para recibir pedidos, navegar a los destinos, confirmar entregas y registrar tu disponibilidad.",
-    "answer_en": "Yes, you'll use the Grupo Sazón app to receive orders, navigate to destinations, confirm deliveries, and log your availability."
+    "answer_es": "Sí, usarás la app de FreshRoute para recibir pedidos, navegar a los destinos, confirmar entregas y registrar tu disponibilidad.",
+    "answer_en": "Yes, you'll use the FreshRoute app to receive orders, navigate to destinations, confirm deliveries, and log your availability."
   },
   {
     "id": "contract_01",
     "category": "compensation",
     "question_es": "¿Es trabajo por contrato o independiente?",
     "question_en": "Is this contract work or freelance?",
-    "answer_es": "Los repartidores de Grupo Sazón son contratados como empleados con contrato laboral, no como autónomos. Esto incluye las protecciones laborales correspondientes.",
-    "answer_en": "Grupo Sazón delivery drivers are hired as employees with a labor contract, not as freelancers. This includes corresponding labor protections."
+    "answer_es": "Los repartidores de FreshRoute son contratados como empleados con contrato laboral, no como autónomos. Esto incluye las protecciones laborales correspondientes.",
+    "answer_en": "FreshRoute delivery drivers are hired as employees with a labor contract, not as freelancers. This includes corresponding labor protections."
   },
   {
     "id": "contract_02",
@@ -380,7 +380,7 @@
     "category": "policies",
     "question_es": "¿Qué medidas de seguridad hay para los repartidores?",
     "question_en": "What safety measures are there for drivers?",
-    "answer_es": "Grupo Sazón ofrece capacitación en seguridad vial, seguimiento en tiempo real durante los turnos, y protocolos de emergencia a través de la app.",
-    "answer_en": "Grupo Sazón provides road safety training, real-time tracking during shifts, and emergency protocols through the app."
+    "answer_es": "FreshRoute ofrece capacitación en seguridad vial, seguimiento en tiempo real durante los turnos, y protocolos de emergencia a través de la app.",
+    "answer_en": "FreshRoute provides road safety training, real-time tracking during shifts, and emergency protocols through the app."
   }
 ]

@@ -95,7 +95,7 @@ def test_search_custom_threshold():
 
 def test_search_company_question():
     _ensure_initialized()
-    result = faq.search("¿Qué es Grupo Sazón?", language="es")
+    result = faq.search("¿Qué es FreshRoute?", language="es")
     assert result is not None
     assert result["category"] == "company"
 

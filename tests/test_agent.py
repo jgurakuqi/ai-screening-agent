@@ -92,13 +92,13 @@ def test_detect_response_language_long_english():
 
 def test_greeting_spanish():
     greeting = generate_greeting("es")
-    assert "Grupo Sazón" in greeting
+    assert "FreshRoute" in greeting
     assert "nombre" in greeting or "llamas" in greeting
 
 
 def test_greeting_english():
     greeting = generate_greeting("en")
-    assert "Grupo Sazón" in greeting
+    assert "FreshRoute" in greeting
     assert "name" in greeting
 
 

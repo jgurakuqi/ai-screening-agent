@@ -1,5 +1,5 @@
 /**
- * @file Main frontend application for the Grupo Sazón screening chatbot.
+ * @file Main frontend application for the FreshRoute screening chatbot.
  *
  * Manages the chat UI, sidebar (conversation list, analytics, resizing),
  * theme toggle, and communication with the FastAPI backend via REST calls.

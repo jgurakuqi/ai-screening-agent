@@ -1,6 +1,6 @@
-# Grupo Sazón Screening Agent
+# FreshRoute Screening Agent
 
-AI-powered candidate screening agent for Grupo Sazón, a restaurant chain hiring delivery drivers across 45 locations in Spain and Mexico.
+AI-powered candidate screening agent for FreshRoute, a restaurant chain hiring delivery drivers across 45 locations in Spain and Mexico.
 
 ## Setup
 
@@ -114,7 +114,7 @@ The primary model is Azure OpenAI GPT-5.4-mini, accessed via the Azure OpenAI AP
 ## Running Tests
 
 ```bash
-cd sazon-agent
+cd screening-agent
 pytest tests/ -v
 ```
 

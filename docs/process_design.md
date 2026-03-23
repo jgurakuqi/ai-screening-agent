@@ -1,4 +1,4 @@
-# Process Design Document — Grupo Sazón Candidate Screening Agent
+# Process Design Document — FreshRoute Candidate Screening Agent
 
 ## 1. Conversation Stages
 
@@ -39,7 +39,7 @@ STAGE 0 — Greeting (auto-sent on conversation creation)
 
 **Greeting trigger:** The greeting is generated and stored as an assistant message immediately when a conversation is created. The candidate's first reply should contain their name.
 
-> *"¡Hola! Soy el asistente de selección de Grupo Sazón. Estamos buscando repartidores y me gustaría hacerte unas preguntas rápidas. ¿Cómo te llamas?"*
+> *"¡Hola! Soy el asistente de selección de FreshRoute. Estamos buscando repartidores y me gustaría hacerte unas preguntas rápidas. ¿Cómo te llamas?"*
 
 ---
 
@@ -152,13 +152,13 @@ The system uses an **LLM-first validation architecture**: the LLM interprets the
 | Language | Match the candidate's language. Accents and informal contractions are fine in Spanish. |
 
 **Example — good disqualification message (ES):**
-> "Gracias por tu interés en Grupo Sazón, María. Por ahora el carnet de conducir es un requisito imprescindible, pero te animamos a que te pongas en contacto cuando lo tengas. ¡Mucha suerte!"
+> "Gracias por tu interés en FreshRoute, María. Por ahora el carnet de conducir es un requisito imprescindible, pero te animamos a que te pongas en contacto cuando lo tengas. ¡Mucha suerte!"
 
 **Example — good validation retry:**
 > "Perdona, no entendí bien tu respuesta. ¿Tienes carnet de conducir? Por favor responde sí o no."
 
 **Example — good qualified closing (EN):**
-> "Excellent, John! You have everything we're looking for. A Grupo Sazón recruiter will be in touch within the next 2 business days. We're excited you applied!"
+> "Excellent, John! You have everything we're looking for. A FreshRoute recruiter will be in touch within the next 2 business days. We're excited you applied!"
 
 ---
 

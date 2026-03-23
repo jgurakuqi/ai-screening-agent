@@ -328,12 +328,12 @@ def generate_greeting(language: str = "es") -> str:
     """Return the deterministic opening greeting message."""
     if language == "en":
         return (
-            "Hi! I'm the screening assistant for Grupo Sazón. "
+            "Hi! I'm the screening assistant for FreshRoute. "
             "We're looking for delivery drivers and I'd like to ask you "
             "a few quick questions. What's your name? First and last name, please."
         )
     return (
-        "¡Hola! Soy el asistente de selección de Grupo Sazón. "
+        "¡Hola! Soy el asistente de selección de FreshRoute. "
         "Estamos buscando repartidores y me gustaría hacerte "
         "unas preguntas rápidas. ¿Cómo te llamas? Nombre y apellidos, por favor."
     )
@@ -664,8 +664,8 @@ async def _handle_field_validation(
 
 _DISQUALIFICATION_MESSAGES = {
     "no_license": {
-        "es": "Gracias por tu interés en Grupo Sazón, {name}. Desafortunadamente, el carnet de conducir es un requisito imprescindible para este puesto. Te animamos a que te pongas en contacto con nosotros cuando lo tengas. ¡Mucha suerte!",
-        "en": "Thank you for your interest in Grupo Sazón, {name}. Unfortunately, a driver's license is a required qualification for this role. We hope to hear from you again in the future. Good luck!",
+        "es": "Gracias por tu interés en FreshRoute, {name}. Desafortunadamente, el carnet de conducir es un requisito imprescindible para este puesto. Te animamos a que te pongas en contacto con nosotros cuando lo tengas. ¡Mucha suerte!",
+        "en": "Thank you for your interest in FreshRoute, {name}. Unfortunately, a driver's license is a required qualification for this role. We hope to hear from you again in the future. Good luck!",
     },
     "outside_area": {
         "es": "Gracias por tu tiempo, {name}. Por ahora solo operamos en ciertas ciudades de España y México, y tu zona no está en nuestra área de servicio actual. Te tendremos en mente si expandimos. ¡Hasta pronto!",
@@ -1336,12 +1336,12 @@ def _get_closing_message(language: str, extracted_data: dict, status: str) -> st
         if language == "en":
             return (
                 f"Excellent, {name}! You have everything we're looking for. "
-                "A Grupo Sazón recruiter will be in touch within the next 2 business days. "
+                "A FreshRoute recruiter will be in touch within the next 2 business days. "
                 "We're excited you applied!"
             )
         return (
             f"¡Excelente, {name}! Tienes todo lo que necesitamos. "
-            "Un recruiter de Grupo Sazón se pondrá en contacto contigo "
+            "Un recruiter de FreshRoute se pondrá en contacto contigo "
             "en los próximos 2 días hábiles. ¡Estamos encantados de que te hayas postulado!"
         )
 

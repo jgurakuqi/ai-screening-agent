@@ -1,6 +1,6 @@
 # ATS Integration API Design
 
-> Design spec for pushing screened candidates from the Grupo Sazón screening agent to external ATS platforms, receiving status-change webhooks, and exposing recruiter-facing summaries.
+> Design spec for pushing screened candidates from the FreshRoute screening agent to external ATS platforms, receiving status-change webhooks, and exposing recruiter-facing summaries.
 
 ---
 
@@ -634,7 +634,7 @@ The candidate receives their closing message immediately. The ATS push happens i
 ## 11. File Structure for Implementation
 
 ```
-sazon-agent/
+screening-agent/
   backend/
     ats/
       __init__.py

@@ -6,7 +6,7 @@
   "turns": [
     {
       "role": "assistant",
-      "message": "¡Hola! Soy el asistente de selección de Grupo Sazón. Estamos buscando repartidores y me gustaría hacerte unas preguntas rápidas. ¿Cómo te llamas? Nombre y apellidos, por favor.",
+      "message": "¡Hola! Soy el asistente de selección de FreshRoute. Estamos buscando repartidores y me gustaría hacerte unas preguntas rápidas. ¿Cómo te llamas? Nombre y apellidos, por favor.",
       "stage": "greeting"
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "role": "assistant",
-      "message": "Gracias por tu interés en Grupo Sazón, Ana Martínez. Desafortunadamente, el carnet de conducir es un requisito imprescindible para este puesto. Te animamos a que te pongas en contacto con nosotros cuando lo tengas. ¡Mucha suerte!",
+      "message": "Gracias por tu interés en FreshRoute, Ana Martínez. Desafortunadamente, el carnet de conducir es un requisito imprescindible para este puesto. Te animamos a que te pongas en contacto con nosotros cuando lo tengas. ¡Mucha suerte!",
       "stage": "license"
     }
   ],
@@ -41,5 +41,5 @@
     "disqualification_reason": "no_license",
     "sentiment_history": ["positive", "neutral"]
   },
-  "summary": "Ana Martínez was screened for a delivery rider role at Grupo Sazón. She was disqualified because she does not have a driver's license, which was stated as an essential requirement for the position. No other qualification signals were provided in the conversation."
+  "summary": "Ana Martínez was screened for a delivery rider role at FreshRoute. She was disqualified because she does not have a driver's license, which was stated as an essential requirement for the position. No other qualification signals were provided in the conversation."
 }

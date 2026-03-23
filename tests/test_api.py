@@ -63,7 +63,7 @@ class TestCreateConversation:
         assert "conversation_id" in data
         assert "greeting_message" in data
         assert len(data["conversation_id"]) > 0
-        assert "Grupo Sazón" in data["greeting_message"]
+        assert "FreshRoute" in data["greeting_message"]
 
     def test_create_multiple(self, client):
         r1 = client.post("/conversations").json()

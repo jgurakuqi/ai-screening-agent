@@ -1,4 +1,4 @@
-"""FastAPI application entry point for the Grupo Sazón screening agent.
+"""FastAPI application entry point for the FreshRoute screening agent.
 
 Defines the REST API, initializes all services (DB, FAQ, LLM, TTS, STT)
 during the lifespan event, and serves the frontend static files.
@@ -140,7 +140,7 @@ async def lifespan(app: FastAPI):
         resources are released.
     """
     # Startup
-    logger.info("Starting Grupo Sazón Screening Agent...")
+    logger.info("Starting FreshRoute Screening Agent...")
     storage.init_db()
     logger.success("Database initialized")
 
@@ -191,7 +191,7 @@ async def lifespan(app: FastAPI):
 
 
 app = FastAPI(
-    title="Grupo Sazón Screening Agent",
+    title="FreshRoute Screening Agent",
     description="AI-powered candidate screening agent for delivery driver recruitment",
     version="1.0.0",
     lifespan=lifespan,

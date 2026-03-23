@@ -6,7 +6,7 @@
   "turns": [
     {
       "role": "assistant",
-      "message": "¡Hola! Soy el asistente de selección de Grupo Sazón. Estamos buscando repartidores y me gustaría hacerte unas preguntas rápidas. ¿Cómo te llamas? Nombre y apellidos, por favor.",
+      "message": "¡Hola! Soy el asistente de selección de FreshRoute. Estamos buscando repartidores y me gustaría hacerte unas preguntas rápidas. ¿Cómo te llamas? Nombre y apellidos, por favor.",
       "stage": "greeting"
     },
     {
